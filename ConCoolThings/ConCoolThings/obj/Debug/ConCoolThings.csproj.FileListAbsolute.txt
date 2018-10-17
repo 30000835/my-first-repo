@@ -1,0 +1,12 @@
+\\edunet.nz\homefolders\stuhome\30000835\visual studio 2015\Projects\ConCoolThings\ConCoolThings\bin\Debug\ConCoolThings.exe.config
+\\edunet.nz\homefolders\stuhome\30000835\visual studio 2015\Projects\ConCoolThings\ConCoolThings\bin\Debug\ConCoolThings.exe
+\\edunet.nz\homefolders\stuhome\30000835\visual studio 2015\Projects\ConCoolThings\ConCoolThings\bin\Debug\ConCoolThings.pdb
+\\edunet.nz\homefolders\stuhome\30000835\visual studio 2015\Projects\ConCoolThings\ConCoolThings\obj\Debug\ConCoolThings.csprojResolveAssemblyReference.cache
+\\edunet.nz\homefolders\stuhome\30000835\visual studio 2015\Projects\ConCoolThings\ConCoolThings\obj\Debug\ConCoolThings.exe
+\\edunet.nz\homefolders\stuhome\30000835\visual studio 2015\Projects\ConCoolThings\ConCoolThings\obj\Debug\ConCoolThings.pdb
+H:\Visual Studio 2015\Projects\ConCoolThings\ConCoolThings\bin\Debug\ConCoolThings.exe.config
+H:\Visual Studio 2015\Projects\ConCoolThings\ConCoolThings\obj\Debug\ConCoolThings.exe
+H:\Visual Studio 2015\Projects\ConCoolThings\ConCoolThings\obj\Debug\ConCoolThings.pdb
+H:\Visual Studio 2015\Projects\ConCoolThings\ConCoolThings\bin\Debug\ConCoolThings.exe
+H:\Visual Studio 2015\Projects\ConCoolThings\ConCoolThings\bin\Debug\ConCoolThings.pdb
+H:\Visual Studio 2015\Projects\ConCoolThings\ConCoolThings\obj\Debug\ConCoolThings.csprojResolveAssemblyReference.cache
